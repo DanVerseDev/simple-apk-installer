@@ -1,0 +1,22 @@
+﻿{
+    "installing":  "جارٍ تثبيت APK...",
+    "press_key":  "اضغط أي مفتاح للخروج.",
+    "waiting_adb":  "بانتظار ADB ({0})...",
+    "wsa_timeout":  "لم يصبح ADB ({0}) جاهزًا خلال {1} ثانية.",
+    "donate_link":  "ادعم هذا المشروع: https://gravatar.com/danversedev",
+    "github_link":  "GitHub: https://github.com/DanVerseDev/simple-apk-installer",
+    "connecting":  "جارٍ الاتصال بـ WSA ADB...",
+    "success":  "تم تثبيت APK بنجاح!",
+    "wsa_ready":  "WSA جاهز!",
+    "ensuring_wsa":  "جارٍ التأكد من أن WSA يعمل...",
+    "app_title":  "Simple APK Installer v1.2",
+    "completed":  "اكتملت العملية.",
+    "target_apk":  "APK الهدف: {0}",
+    "error_apk_not_found":  "لم يتم العثور على ملف APK: {0}",
+    "failed":  "فشل التثبيت.",
+    "unauthorized":  "الجهاز غير مصرح به. يرجى قبول مفتاح RSA في WSA.",
+    "signature_mismatch":  "تم اكتشاف تعارض في التوقيع. قم بإزالة التطبيق الحالي وحاول مرة أخرى.",
+    "error_adb_missing":  "لم يتم العثور على ADB في PATH. شغّل \u0027install.ps1\u0027 كمسؤول.",
+    "dev_mode_hint":  "تأكد من تفعيل \u0027وضع المطور\u0027 في إعدادات WSA.",
+    "wsa_booting":  "WSA قيد التشغيل، يرجى الانتظار..."
+}

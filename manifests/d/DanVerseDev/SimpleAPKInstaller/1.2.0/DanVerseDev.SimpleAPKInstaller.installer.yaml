@@ -1,0 +1,16 @@
+PackageIdentifier: DanVerseDev.SimpleAPKInstaller
+PackageVersion: 1.2.0
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/DanVerseDev/simple-apk-installer/releases/download/v1.2.0/SimpleAPKInstaller_v1.2.0_Setup.exe
+    InstallerSha256: 68943A49B640E634739A6A30813DF7670FF3304133D0DE42425C66348427DF65
+    UpgradeBehavior: install
+    InstallerSwitches:
+      Silent: /VERYSILENT /SUPPRESSMSGBOXES
+      SilentWithProgress: /SILENT /SUPPRESSMSGBOXES
+    Dependencies:
+      PackageDependencies:
+        - PackageIdentifier: Google.PlatformTools
+ManifestType: installer
+ManifestVersion: 1.6.0

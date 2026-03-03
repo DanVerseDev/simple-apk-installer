@@ -1,0 +1,22 @@
+﻿{
+    "installing":  "APK इंस्टॉल हो रहा है...",
+    "press_key":  "बाहर निकलने के लिए कोई भी कुंजी दबाएँ।",
+    "waiting_adb":  "ADB ({0}) की प्रतीक्षा की जा रही है...",
+    "wsa_timeout":  "ADB ({0}) {1} सेकंड में तैयार नहीं हुआ।",
+    "donate_link":  "इस प्रोजेक्ट का समर्थन करें: https://gravatar.com/danversedev",
+    "github_link":  "GitHub: https://github.com/DanVerseDev/simple-apk-installer",
+    "connecting":  "WSA ADB से कनेक्ट हो रहा है...",
+    "success":  "APK सफलतापूर्वक इंस्टॉल हो गया!",
+    "wsa_ready":  "WSA तैयार है!",
+    "ensuring_wsa":  "सुनिश्चित किया जा रहा है कि WSA चल रहा है...",
+    "app_title":  "Simple APK Installer v1.2",
+    "completed":  "कार्य पूर्ण हुआ।",
+    "target_apk":  "लक्ष्य APK: {0}",
+    "error_apk_not_found":  "APK फ़ाइल नहीं मिली: {0}",
+    "failed":  "इंस्टॉलेशन विफल रहा।",
+    "unauthorized":  "डिवाइस अधिकृत नहीं है। WSA में RSA कुंजी स्वीकार करें।",
+    "signature_mismatch":  "हस्ताक्षर टकराव पाया गया। मौजूदा ऐप हटाएँ और पुनः प्रयास करें।",
+    "error_adb_missing":  "PATH में ADB नहीं मिला। \u0027install.ps1\u0027 को व्यवस्थापक के रूप में चलाएँ।",
+    "dev_mode_hint":  "WSA सेटिंग्स में \u0027डेवलपर मोड\u0027 सक्षम होना चाहिए।",
+    "wsa_booting":  "WSA बूट हो रहा है, कृपया प्रतीक्षा करें..."
+}

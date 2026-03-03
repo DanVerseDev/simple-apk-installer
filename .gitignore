@@ -1,0 +1,15 @@
+# Binaries and Setup
+*.exe
+*_Setup.exe
+Output/
+
+# PowerShell
+*.log
+*.xml
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Inno Setup temporary files
+_is*.tmp

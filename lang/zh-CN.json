@@ -1,0 +1,22 @@
+﻿{
+    "installing":  "正在安装 APK...",
+    "press_key":  "按任意键退出。",
+    "waiting_adb":  "正在等待 ADB ({0}) 可用...",
+    "wsa_timeout":  "ADB ({0}) 在 {1} 秒内未就绪。",
+    "donate_link":  "支持此项目：https://gravatar.com/danversedev",
+    "github_link":  "GitHub：https://github.com/DanVerseDev/simple-apk-installer",
+    "connecting":  "正在连接 WSA ADB...",
+    "success":  "APK 安装成功！",
+    "wsa_ready":  "WSA 已就绪！",
+    "ensuring_wsa":  "正在确保 WSA 正在运行...",
+    "app_title":  "Simple APK Installer v1.2",
+    "completed":  "操作完成。",
+    "target_apk":  "目标 APK：{0}",
+    "error_apk_not_found":  "未找到 APK 文件：{0}",
+    "failed":  "安装失败。",
+    "unauthorized":  "设备未授权。请在 WSA 中接受 RSA 密钥。",
+    "signature_mismatch":  "检测到签名冲突。请卸载现有应用后重试。",
+    "error_adb_missing":  "系统 PATH 中未找到 ADB。请以管理员身份运行 \u0027install.ps1\u0027。",
+    "dev_mode_hint":  "请确保在 WSA 设置中启用“开发者模式”。",
+    "wsa_booting":  "WSA 正在启动，请稍候..."
+}

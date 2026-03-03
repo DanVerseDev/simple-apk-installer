@@ -1,0 +1,22 @@
+﻿{
+    "installing":  "APK をインストール中...",
+    "press_key":  "任意のキーを押して終了します。",
+    "waiting_adb":  "ADB ({0}) を待機中...",
+    "wsa_timeout":  "ADB ({0}) は {1} 秒以内に準備できませんでした。",
+    "donate_link":  "このプロジェクトを支援してください: https://gravatar.com/danversedev",
+    "github_link":  "GitHub: https://github.com/DanVerseDev/simple-apk-installer",
+    "connecting":  "WSA ADB に接続中...",
+    "success":  "APK のインストールに成功しました！",
+    "wsa_ready":  "WSA の準備ができました！",
+    "ensuring_wsa":  "WSA が実行中であることを確認中...",
+    "app_title":  "Simple APK Installer v1.2",
+    "completed":  "操作が完了しました。",
+    "target_apk":  "対象 APK: {0}",
+    "error_apk_not_found":  "APK ファイルが見つかりません: {0}",
+    "failed":  "インストールに失敗しました。",
+    "unauthorized":  "デバイスが未承認です。WSA で RSA キーを承認してください。",
+    "signature_mismatch":  "署名の不一致が検出されました。既存のアプリを削除して再試行してください。",
+    "error_adb_missing":  "ADB が PATH に見つかりません。管理者として \u0027install.ps1\u0027 を実行してください。",
+    "dev_mode_hint":  "WSA 設定で「開発者モード」が有効になっていることを確認してください。",
+    "wsa_booting":  "WSAを起動しています、お待ちください..."
+}

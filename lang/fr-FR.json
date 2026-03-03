@@ -1,0 +1,22 @@
+﻿{
+    "completed":  "Opération terminée.",
+    "waiting_adb":  "En attente de la disponibilité d\u0027ADB ({0})...",
+    "wsa_timeout":  "ADB ({0}) n\u0027est pas devenu prêt en {1} secondes.",
+    "donate_link":  "Soutenez ce projet : https://gravatar.com/danversedev",
+    "github_link":  "GitHub : https://github.com/DanVerseDev/simple-apk-installer",
+    "connecting":  "Connexion à l\u0027ADB de WSA...",
+    "success":  "APK installée avec succès !",
+    "wsa_booting":  "WSA est en cours de démarrage, veuillez patienter...",
+    "installing":  "Installation de l\u0027APK...",
+    "error_apk_not_found":  "Fichier APK introuvable : {0}",
+    "failed":  "Échec de l\u0027installation.",
+    "wsa_ready":  "WSA est prêt !",
+    "ensuring_wsa":  "Vérification que WSA est en cours d\u0027exécution...",
+    "press_key":  "Appuyez sur une touche pour quitter.",
+    "app_title":  "Simple APK Installer v1.2",
+    "target_apk":  "APK cible : {0}",
+    "unauthorized":  "Appareil non autorisé. Veuillez accepter la clé RSA dans WSA.",
+    "signature_mismatch":  "Conflit de signature détecté. Désinstallez l\u0027application existante et réessayez.",
+    "error_adb_missing":  "ADB introuvable dans le PATH. Veuillez installer les Platform Tools.",
+    "dev_mode_hint":  "Assurez-vous que le \u0027Mode développeur\u0027 est ACTIVÉ dans les paramètres de WSA."
+}
