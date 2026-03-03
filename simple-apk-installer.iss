@@ -37,6 +37,7 @@ Source: "resources\*"; DestDir: "{app}\resources"; Flags: ignoreversion recurses
 Source: "ext\ApkShellext2.dll"; DestDir: "{app}\ext"; Flags: ignoreversion
 Source: "ext\libwebp_x64.dll"; DestDir: "{app}\ext"; Flags: ignoreversion
 Source: "ext\libwebp_x86.dll"; DestDir: "{app}\ext"; Flags: ignoreversion
+Source: "ext\LICENSE_apkshellext.txt"; DestDir: "{app}\ext"; Flags: ignoreversion
 
 [Registry]
 Root: HKA; Subkey: "Software\Classes\.apk"; ValueType: string; ValueName: ""; ValueData: "APKInstaller.ApkFile"; Flags: uninsdeletevalue

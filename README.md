@@ -41,6 +41,12 @@ Once installed, the process is completely seamless:
 
 *Note: If APK icons do not appear immediately, you may need to restart Windows Explorer or your PC.*
 
+## 🤝 Third-Party Credits
+
+This project integrates the following open-source technologies:
+
+- **[ApkShellext2](https://github.com/kkguo/apkshellext)** by [kkguo](https://github.com/kkguo): Provides the shell extension for displaying real Android app icons in Windows Explorer. (MIT License).
+
 ## 🛠 Prerequisites
 
 - **Windows 10 or 11** with WSA installed.
