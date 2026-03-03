@@ -4,7 +4,7 @@ InstallerType: exe
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/DanVerseDev/simple-apk-installer/releases/download/v1.2.0/SimpleAPKInstaller_v1.2.0_Setup.exe
-    InstallerSha256: 68943A49B640E634739A6A30813DF7670FF3304133D0DE42425C66348427DF65
+    InstallerSha256: 110F0A3FA4F295D25FEDB449BA48863B25CAF9903B42AA462A1424D1A6B5E108
     UpgradeBehavior: install
     InstallerSwitches:
       Silent: /VERYSILENT /SUPPRESSMSGBOXES
