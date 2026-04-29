@@ -19,16 +19,12 @@ A lightweight, transparent, and professional tool for Windows to install Android
 
 ## 📦 Installation
 
-### 1. Executable Installer (Recommended)
+### Executable Installer
 The easiest way to get started. It handles file associations and shell extensions automatically.
 
 1. Download `SimpleAPKInstaller_v1.2.0_Setup.exe` from the [Releases](https://github.com/DanVerseDev/simple-apk-installer/releases) page.
 2. Run the installer as Administrator.
 
-### 2. Via WinGet (Community)
-```powershell
-winget install DanVerseDev.SimpleAPKInstaller
-```
 
 ## 🚀 Usage
 
